@@ -1,5 +1,5 @@
 Muhammad Qasim
-courser github
+coursera github learning
 # Awesome Web Development Resources ![Awesome][awesome-badge]
 
 This is an awesome project about Web Development resources. ⚡
